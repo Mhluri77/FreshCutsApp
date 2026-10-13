@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnGoRegister" type="id" />
+    <item name="btnLogin" type="id" />
+    <item name="etUsername" type="id" />
+    <item name="etPassword" type="id" />
+    <item name="btnRegister" type="id" />
+    <item name="etEmail" type="id" />
+    <item name="etName" type="id" />
+    <item name="btnGoLogin" type="id" />
+    <item name="btnGoSettings" type="id" />
+</resources>
